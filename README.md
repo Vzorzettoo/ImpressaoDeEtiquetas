@@ -15,3 +15,7 @@ Sistema web para cadastro de produtos, controle de lotes e impressão de etiquet
 - React
 - SQLite
 - jsPDF
+
+## Preview
+
+![Tela do sistema](./public/screenshots/tela.png)
