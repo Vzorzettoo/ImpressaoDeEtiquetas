@@ -19,3 +19,6 @@ Sistema web para cadastro de produtos, controle de lotes e impressão de etiquet
 ## Preview
 
 ![Tela do sistema](./public/screenshots/tela.png)
+
+### PDF gerado
+![Etiquetas](./public/screenshots/etiquetas.png)
